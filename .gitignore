@@ -1,0 +1,11 @@
+# Build do .NET
+bin/
+obj/
+
+# Configuracoes locais do editor
+.vs/
+.vscode/
+
+# Segredos: NUNCA versione
+appsettings.Development.json
+*.user
