@@ -96,3 +96,53 @@ git push -u origin feature/01-parcelamento
      Quando der conflito no merge, mantenha TODOS os nomes. -->
 
 - 
+
+
+29 pessoas → 5 grupos de 5 + 1 grupo de 4.
+
+Grupo 1
+
+Wallisson de matos
+Henrique araujo
+mateus pevidor
+icaro roberto
+jyullio Thiago
+
+Grupo 2
+
+icaro Daniel
+joao lucas
+Breno de lima
+Raul Silveira
+Raissa dos santos
+
+Grupo 3
+
+victor hugo
+lucas Werner
+rodrigo luiz
+felipe de oliveira
+janete mariulu
+
+Grupo 4
+
+Atilia
+Gabriel marco
+joao Gabriel
+wallace Sanches de oliveira
+pablo vital
+
+Grupo 5
+
+Diergo Inácio
+Anderson Luciano
+thomas gonzalez
+Paulo Henrique
+fabio domingues
+
+Grupo 6
+
+Gutemberg
+max de as
+Ester urbinati
+Matheus amaral
