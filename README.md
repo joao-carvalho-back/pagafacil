@@ -98,51 +98,53 @@ git push -u origin feature/01-parcelamento
 - 
 
 
-29 pessoas → 5 grupos de 5 + 1 grupo de 4.
+# Sorteio de Grupos
 
-Grupo 1
+**29 pessoas → 5 grupos de 5 + 1 grupo de 4**
 
-Wallisson de matos
-Henrique araujo
-mateus pevidor
-icaro roberto
-jyullio Thiago
+## Grupo 1
 
-Grupo 2
+1. Wallisson de Matos
+2. Henrique Araujo
+3. Mateus Pevidor
+4. Icaro Roberto
+5. Jyullio Thiago
 
-icaro Daniel
-joao lucas
-Breno de lima
-Raul Silveira
-Raissa dos santos
+## Grupo 2
 
-Grupo 3
+1. Icaro Daniel
+2. Joao Lucas
+3. Breno de Lima
+4. Raul Silveira
+5. Raissa dos Santos
 
-victor hugo
-lucas Werner
-rodrigo luiz
-felipe de oliveira
-janete mariulu
+## Grupo 3
 
-Grupo 4
+1. Victor Hugo
+2. Lucas Werner
+3. Rodrigo Luiz
+4. Felipe de Oliveira
+5. Janete Mariulu
 
-Atilia
-Gabriel marco
-joao Gabriel
-wallace Sanches de oliveira
-pablo vital
+## Grupo 4
 
-Grupo 5
+1. Atilia
+2. Gabriel Marco
+3. Joao Gabriel
+4. Wallace Sanches de Oliveira
+5. Pablo Vital
 
-Diergo Inácio
-Anderson Luciano
-thomas gonzalez
-Paulo Henrique
-fabio domingues
+## Grupo 5
 
-Grupo 6
+1. Diergo Inácio
+2. Anderson Luciano
+3. Thomas Gonzalez
+4. Paulo Henrique
+5. Fabio Domingues
 
-Gutemberg
-max de as
-Ester urbinati
-Matheus amaral
+## Grupo 6
+
+1. Gutemberg
+2. Max de As
+3. Ester Urbinati
+4. Matheus Amaral
