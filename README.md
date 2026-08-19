@@ -133,6 +133,7 @@ git push -u origin feature/01-parcelamento
 3. Joao Gabriel
 4. Wallace Sanches de Oliveira
 5. Pablo Vital
+6. Edinaldo do Nascimento
 
 ## Grupo 5
 
@@ -148,3 +149,4 @@ git push -u origin feature/01-parcelamento
 2. Max de As
 3. Ester Urbinati
 4. Matheus Amaral
+5. Paulo Henrique dos Santos
